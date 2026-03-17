@@ -1,16 +1,23 @@
-# React + Vite
+## 🌦️ React Weather App
+A simple Weather Application built using React that fetches and displays real-time weather data for any city.
+This project demonstrates API integration, state management, and dynamic UI updates.
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About the Project
+This React app allows users to search for a city and view its current weather conditions such as temperature, humidity, and weather description.
 
-Currently, two official plugins are available:
+It was built to practice:
+- API integration using fetch / axios
+- React state management (useState)
+- Handling user input
+- Conditional rendering
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature and weather conditions
+- 💧 Shows humidity and additional details
+- ⚛️ Built with React functional components
+- 🔄 Real-time data fetching from API
+- 📱 Responsive and simple UI
