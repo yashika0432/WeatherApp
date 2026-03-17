@@ -23,3 +23,17 @@ It was built to practice:
 - ⚛️ Built with React functional components
 - 🔄 Real-time data fetching from API
 - 📱 Responsive and simple UI
+
+---
+
+## 🛠️ Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS
+- Weather API (OpenWeatherMap or similar)
+
+---
+
+## 🚀 Installation
+1. Clone the repository
+
