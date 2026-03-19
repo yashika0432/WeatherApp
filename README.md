@@ -36,7 +36,7 @@ It was built to practice:
 
 ## 🚀 Installation
 1. Clone the repository
-   ```git clone https://github.com/yourusername/react-weather-app.git```
+   ```git clone https://github.com/yashika0432/WeatherApp```
 2. Navigate to the project
    ```cd WeatherApp```
 3. Install dependencies
